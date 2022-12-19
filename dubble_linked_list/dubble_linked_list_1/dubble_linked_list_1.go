@@ -1,4 +1,4 @@
-package main
+package dubble_linked_list_1
 
 import "fmt"
 
